@@ -1,4 +1,4 @@
-package com.dmslob.rest.esception;
+package com.dmslob.exception;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.ModelAndView;

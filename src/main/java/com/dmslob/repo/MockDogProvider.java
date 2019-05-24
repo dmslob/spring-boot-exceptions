@@ -1,6 +1,6 @@
-package com.dmslob.rest.repo;
+package com.dmslob.repo;
 
-import com.dmslob.rest.model.DogDto;
+import com.dmslob.model.DogDto;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

@@ -1,8 +1,8 @@
-package com.dmslob.rest.web;
+package com.dmslob.web;
 
-import com.dmslob.rest.model.DogDto;
-import com.dmslob.rest.repo.Dog;
-import com.dmslob.rest.service.DogService;
+import com.dmslob.repo.Dog;
+import com.dmslob.model.DogDto;
+import com.dmslob.service.DogService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

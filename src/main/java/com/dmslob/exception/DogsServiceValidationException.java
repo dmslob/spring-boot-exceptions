@@ -1,4 +1,4 @@
-package com.dmslob.rest.web;
+package com.dmslob.exception;
 
 public class DogsServiceValidationException extends Throwable {
 }

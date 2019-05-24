@@ -1,8 +1,8 @@
-package com.dmslob.rest.service;
+package com.dmslob.service;
 
-import com.dmslob.rest.model.DogDto;
-import com.dmslob.rest.repo.Dog;
-import com.dmslob.rest.repo.MockDogProvider;
+import com.dmslob.model.DogDto;
+import com.dmslob.repo.Dog;
+import com.dmslob.repo.MockDogProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

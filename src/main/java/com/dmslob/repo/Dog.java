@@ -1,4 +1,4 @@
-package com.dmslob.rest.repo;
+package com.dmslob.repo;
 
 public class Dog {
 

@@ -1,4 +1,4 @@
-package com.dmslob.rest.model;
+package com.dmslob.model;
 
 public class DogDto {
 
